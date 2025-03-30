@@ -15,7 +15,9 @@ user queries, enhancing the system's ability to deliver informative and engaging
 interactions.
 Implementation:
 The implementation involved several steps, including data preprocessing, model
-integration, and query response generation. Data Preprocessing: ● The CSV dataset was formatted to enhance data quality and readability.
+integration, and query response generation. Data Preprocessing: 
+
+● The CSV dataset was formatted to enhance data quality and readability.
 ● Blank entries were replaced, decimal points were standardized, and unnecessary
 columns were removed.
 ● Text columns were cleaned to remove HTML tags and extra characters.
